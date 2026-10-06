@@ -7,11 +7,11 @@
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Lab-red)
 
 ## Networkwalks Internship – Week 4 Project
-Candidate: pavithra p
+**Candidate**: pavithra p
 
-Internship Batch: sep26 Batch B083
+**Internship Batch**: sep26 Batch B083
 
-Date: october 2026
+**Date**: october 2026
 ## Executive Summary
 A five-d ays black- b ox penetration test was conducted against the
 external web infrastructure of Mediroza General Hospital. The assessment focused on identifying weaknesses in
@@ -67,7 +67,25 @@ The assessment followed a black-box penetration testing approach:
    
  * Dr. Rajesh Naidoo holds a 18.0% majority stake, while Dr. Vikram Chetty holds a 4.0% Preferential share class.
 
+ ##  ⭐ Project Status
+|Milestone|	Objective|Status|
+|---------|----------|--------|
+|M1	|Breach & Retrieve 3 PDFs|✅ Complete|
+|M2	|Crack Encryption & Extract Text|✅ Complete|
+|M3|Find Salaries & Shareholders|✅ Complete|
+|M4|Compile Professional Report	|✅ Complete|
+|Final|	Portfolio & GitHub Documentation|✅ Complete|
+
  ##  ⚠️ Ethical & Legal Disclaimer
 IMPORTANT This project was conducted strictly for educational purposes as part of the Networkwalks Internship Program (Batch B083 | Week 4). The target environment (https://medirozahospital.com) is a simulated training lab designed explicitly for cybersecurity education. Written authorization was granted by the training provider prior to testing.
 
 The techniques and code demonstrated in this repository must never be applied to any system, network, or application without obtaining explicit, written permission from the rightful owner. Unauthorized access is illegal and unethical.
+
+## Author
+pavithra p
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavithra-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-p-202131427/)
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-Pavithra-black?logo=github&logoColor=purple)](https://github.com/pavithrap99)
+
+Networkwalks Internship:Bacth-B083 Week-4
